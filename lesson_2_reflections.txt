@@ -1,0 +1,9 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+R: É criado a estrutura de repositório para o Git (.git). E necessário
+sua execução para que o repositório seja criado.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório?
+Qual valor você acha que ela oferece?
+R: O repositorio os files e commits ja estão persistidos. Area de preparação
+é um pré fase para um commit. Seu valor é importante pelo fato de proporcionar
+uma analise logica para os commits.
